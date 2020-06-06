@@ -1,0 +1,14 @@
+{
+    "name": "@klipper/dotenv-symfony",
+    "version": "1.0.0",
+    "description": "Dotenv for Symfony",
+    "repository": "git@github.com:klipperdev/dotenv-symfony.git",
+    "author": "François Pluchino <francois.pluchino@klipper.dev>",
+    "license": "MIT",
+    "private": true,
+    "main": "index.js",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "fs-extra": "^9.0.1"
+    }
+}
